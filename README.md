@@ -1,5 +1,9 @@
 # daljeet_katoch_8816494
-Your name - 
-Project title - 
+
+Your name - DALJEETKATOCH
+
+Project title - CREATE A FILE IN GIT HUB
+
 Links to website & social media - 
-Contact details
+
+Contact details- Dkatoch6494@conestogac.on.ca
